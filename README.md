@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Shmuel Gabai, and i'm a Front-end developer at Wix.com
+My name is Shmuel Gabai, and i'm a Front-end developer @ Wix.com
 
 ### About Me
 I'm a full-stack web developer, experienced in Vanilla Javascript, React, Node and MongoDB. I've Been experimenting with Coding since the age of 11 (on pascal...), and have an outstanding passion for it. Also, I'm currently working as Tech Journalist at TGspot website.
