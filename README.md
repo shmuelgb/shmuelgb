@@ -3,7 +3,8 @@
 <h2 align='center'> I'm a  Software Developer @ Wix.com</h2>
 
 ### About Me
-I'm a full-stack web developer, experienced in Vanilla Javascript, React, Node and MongoDB.<br />I've Been experimenting with Coding since the age of 11 (on pascal...), and have an outstanding passion for it. Also, I'm currently working as Tech Journalist at TGspot website.<br />
+I'm a full-stack web developer, experienced in Vanilla Javascript, React, Node and MongoDB.<br />I've Been experimenting with Coding since the age of 11 (on pascal...), and have an outstanding passion for it.<br />
+Also, I'm currently working as Tech Journalist at TGspot website.<br />
 Please visit my LinkedIn profile: [Here](https://www.linkedin.com/in/shmuel-gabai-5ab380b4/).<br />
 And my new articles about Tech news [Here](https://www.tgspot.co.il/author/shmuelgb/).<br />
 
