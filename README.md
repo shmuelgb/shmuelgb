@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there, I'm Shmuel 😊</h1>
+<h1 align='center'> Hi there, I'm Shmuel 😊 :zap:</h1>
 
 <h2 align='center'> I'm a  Software Developer @ Wix.com</h2>
 
