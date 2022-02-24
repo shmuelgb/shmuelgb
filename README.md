@@ -1,5 +1,4 @@
-<h1 align='center'> Hi there, I'm Shmuel 😊 ![image](https://user-images.githubusercontent.com/93119163/155489654-de917033-899f-466d-b09e-3b0def17f500.png)
-</h1>
+<h1 align='center'> Hi there, I'm Shmuel 😊</h1>
 
 <h2 align='center'> I'm a  Software Developer @ Wix.com</h2>
 
